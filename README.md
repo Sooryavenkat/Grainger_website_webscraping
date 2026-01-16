@@ -1,15 +1,3 @@
-Based on the contents of your repository, here is a clear and professional `README.md` file you can use.
-
-I noticed a small typo in your output file name (`producst.csv` instead of `products.csv`), so I have included a note about that as well.
-
-### **How to Add This to Your Repo:**
-
-1. Create a new file in your repository named `README.md`.
-2. Copy and paste the markdown text below into that file.
-3. Commit the changes.
-
----
-
 # Grainger Web Scraper
 
 A Python-based web scraping tool designed to extract product information from Grainger and save it into a structured CSV format.
